@@ -26,7 +26,7 @@ author:
   avatar           : "images/bglibguideicon.png"
   name             : "Benjamin Griffith"
   pronouns         : # example: "she/her"  
-  bio              : "A dynamic arts and information professional whose career bridges the disciplines of performing arts, library science, and public administration. Benjamin has spent over a decade crafting and leading community-centric programs in both public and nonprofit sectors."
+  bio              : "A dynamic arts and information professional whose career bridges the disciplines of performing arts, library science, and public administration."
   location         : "North Carolina"
   employer         : "Student"
   uri              : # URL
@@ -48,7 +48,7 @@ author:
   # bitbucket        : # Username - Update with your username on the site
   # codepen          : # Username
   # dribbble         : # Username
-  github           : "AlternativelyPowered"
+  github             : "AlternativelyPowered"
   # kaggle           : # Username  
   # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -63,7 +63,7 @@ author:
   # keybase          : # Username
   # instagram        : # Username
   # lastfm           : # Username
-  linkedin         : # www.linkedin.com/in/benjamin-griffith-00614825
+  linkedin           : # zxbenjamin-griffith-00614825
   # mastodon         : # URL
   # medium           : # URL
   # pinterest        : # Username
