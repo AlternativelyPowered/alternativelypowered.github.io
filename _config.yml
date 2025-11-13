@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/bgavatar.png"
+  avatar           : "images/bgavatar.png"
   name             : "Benjamin Griffith"
   pronouns         : # example: "she/her"  
   bio              : "A dynamic arts and information professional whose career bridges the disciplines of performing arts, library science, and public administration."
