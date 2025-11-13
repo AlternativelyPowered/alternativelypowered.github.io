@@ -1,15 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+From overseeing grant-funded initiatives like Libraries Transforming Communities for Accessibility and The CharlieCart Project®, to coordinating engaging StoryWalk® installations and facilitating community workshops, Benjamin has demonstrated a consistent commitment to inclusive, impactful programs. His leadership spans the full project lifecycle, including recruiting talent, promoting events through print media and radio, and managing budgets via MUNIS software. He also brings strong skills in graphic design and content editing, with hands-on experience using Adobe, Canva, Squarespace, Wordpress and a variety of specialized content management systems.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+  Benjamin’s versatility is equally evident in production work, where he has served as Stage Manager, Property Master, Set Painter, Rehearsal Pianist, Musical Director, and Director. His formal training in Theatre Arts, coupled with deep program management experience, equips him to contribute meaningfully to any creative or community-focused team.  Benjamin Griffith exemplifies collaborative leadership and lifelong learning, making him a valuable asset across arts, entertainment, education, and community engagement landscapes.
+
+    Currently pursuing his Master of Library and Information Science at the University of North Carolina at Greensboro, Benjamin continues to evolve professionally while remaining rooted in service. His recent roles include Artistic & Managing Director for a municipal community theatre, Patron Services lead at a nonprofit performing arts venue, Outreach Technician with a public library, and most recently, Office Manager at KIPP GCP PRIDE High, a charter school.
 
 A data-driven personal website
 ======
