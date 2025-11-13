@@ -11,7 +11,7 @@ From overseeing grant-funded initiatives like Libraries Transforming Communities
 
   Benjamin’s versatility is equally evident in production work, where he has served as Stage Manager, Property Master, Set Painter, Rehearsal Pianist, Musical Director, and Director. His formal training in Theatre Arts, coupled with deep program management experience, equips him to contribute meaningfully to any creative or community-focused team.  Benjamin Griffith exemplifies collaborative leadership and lifelong learning, making him a valuable asset across arts, entertainment, education, and community engagement landscapes.
 
-    Currently pursuing his Master of Library and Information Science at the University of North Carolina at Greensboro, Benjamin continues to evolve professionally while remaining rooted in service. His recent roles include Artistic & Managing Director for a municipal community theatre, Patron Services lead at a nonprofit performing arts venue, Outreach Technician with a public library, and most recently, Office Manager at KIPP GCP PRIDE High, a charter school.
+  Currently pursuing his Master of Library and Information Science at the University of North Carolina at Greensboro, Benjamin continues to evolve professionally while remaining rooted in service. His recent roles include Artistic & Managing Director for a municipal community theatre, Patron Services lead at a nonprofit performing arts venue, Outreach Technician with a public library, and most recently, Office Manager at KIPP GCP PRIDE High, a charter school.
 
 A data-driven personal website
 ======
