@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Benjamin Griffith"
+title                    : "Benjamin 'Ben' Griffith"
 title_separator          : "-"
 name                     : &name "Benjamin Griffith"
 description              : &description "The portfolio of a dynamic arts and information professional whose career bridges the disciplines of performing arts, library science, and public administration."   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -63,7 +63,7 @@ author:
   # keybase          : # Username
   # instagram        : # Username
   # lastfm           : # Username
-  linkedin           : "https://www.linkedin.com/in/benjamin-griffith-00614825/"
+  linkedin           : "benjamin-griffith-00614825/"
   # mastodon         : # URL
   # medium           : # URL
   # pinterest        : # Username
