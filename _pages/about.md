@@ -17,6 +17,6 @@ From overseeing grant-funded initiatives like Libraries Transforming Communities
 ------
 Recent projects in Library & Information Science.
 
-CV
+<a href="https://alternativelypowered.github.io//cv/">CV</a>
 ------
-Past work completed in Service, Administration & Libraries.
+Work completed in Public Service, Arts & Libraries.
