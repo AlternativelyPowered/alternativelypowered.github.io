@@ -21,4 +21,4 @@ Recent projects in Library & Information Science.
 
 <a href="https://alternativelypowered.github.io//cv/"><img src="images/3.png"></a>
 ------
-Work completed in Public Service, Arts & Libraries.
+Past work in Public Service, Arts, & Libraries.
