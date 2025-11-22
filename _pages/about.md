@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Benjamin"
+title: "About Ben"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,8 +15,8 @@ From overseeing grant-funded initiatives like Libraries Transforming Communities
 
 Portfolio
 ------
-Benjamin's recent projects in M.L.I.S.
+Recent projects in Library & Information Science.
 
 CV
 ------
-Benjamin's most recent work history.
+Past work completed in Service, Administration & Libraries.
