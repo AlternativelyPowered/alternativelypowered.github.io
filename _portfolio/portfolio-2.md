@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Presentation on Retrospective Resources"
+excerpt: "A class presentation on Retrospective Resources completed for LIS 620 Information & Inquiry, Fall 2025.<br/><img src='/images/retrospectiveresources.mp4'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<img src='/images/retrospectiveresources.mp4'>
+This presentation was completed as part of a group project in LIS 620 Information & Inquiry during Fall 2025.

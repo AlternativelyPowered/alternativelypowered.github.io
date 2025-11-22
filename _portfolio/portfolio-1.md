@@ -1,5 +1,5 @@
 ---
-title: "Portfolio Website Mood Board"
+title: "LIS 636 Portfolio Website Mood Board"
 excerpt: "A creative process-starter that originated as part of portfolio building, Fall 2025.<br/><img src='/images/moodboard.png'>"
 collection: portfolio
 ---
