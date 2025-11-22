@@ -47,13 +47,12 @@ Work experience
   * Supervisor: Joel Dunn (Director of Parks & Recreation)
 
 
-  
 Skills
 ======
 * Communication
 * Leadership
   * Operational Experience
-  * Organization Acumen
+  * Organizational Acumen
   * Program Building
 * Graphic Design
 * Community Outreach
