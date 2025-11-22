@@ -34,17 +34,17 @@ Work experience
   * Supervisor: Peter Holloway (Former Director)
 
 * Jan 2022 - May 2022: Theatre Manager
-  * Imperial Centre for the Arts and Sciences | City of Rocky Mount, NC
+  * Imperial Centre for the Arts and Sciences, City of Rocky Mount, NC
   * Duties included: Leveraging a diverse skill set as resident Managing & Artistic Director to seamlessly fill any role. Overseing all Imperial Centre Theatre events and rentals. Managing two full time staff members, two part time stewards, and volunteers within the Rocky Mount Parks & Recreation department.
   * Supervisor: Joel Dunn (Director of Parks & Recreation)
 
 * Jan 2018 - Jan 2022: Theatre Assistant
-  * Imperial Centre for the Arts and Sciences | City of Rocky Mount, NC
+  * Imperial Centre for the Arts and Sciences, City of Rocky Mount, NC
   * Duties included: Handling all cast communication as resident Stage Manager. Providing administrative support in data entry, shop maintenance and organization. Composing and performing piano scores for the 2020 Beckett Radio Play Series: Words & Music, Embers, and Cascando.
   * Supervisor: Joel Dunn (Director of Parks & Recreation)
 
 * Jul 2017 - Jan 2018: Part-Time Recreation Supervisor IV
-  * Imperial Centre for the Arts and Sciences | City of Rocky Mount, NC
+  * Imperial Centre for the Arts and Sciences, City of Rocky Mount, NC
   * Duties included: Provided technical support, updated audience and performer contact databases.
   * Supervisor: Joel Dunn (Director of Parks & Recreation)
 
