@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Portfolio Website Mood Board"
+excerpt: "A creative process-starter created as part of portfolio-building, Fall 2025<br/><img src='/images/bgriffith.moodboard.pdf'>"
 collection: portfolio
 ---
 
