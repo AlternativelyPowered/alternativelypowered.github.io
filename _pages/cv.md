@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-<img src="images/3.png">
-
 {% include base_path %}
+
+<img src="images/3.png">
 
 Education
 ======
