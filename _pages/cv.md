@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<img src="images/cvheader.png">
+<img src="images/3.png">
 
 Education
 ======
