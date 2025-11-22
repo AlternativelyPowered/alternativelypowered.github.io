@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 <img src="images/1.png">
+<h3><i>Here you can discover Benjamin Griffith's past experience and imagine his future potential.</i></h3>
 
 From overseeing grant-funded initiatives like Libraries Transforming Communities for Accessibility and The CharlieCart Project®, to coordinating engaging StoryWalk® installations and facilitating community workshops, Benjamin has demonstrated a consistent commitment to inclusive, impactful programs. His leadership spans the full project lifecycle, including recruiting talent, promoting events through print media and radio, and managing budgets via MUNIS software. He also brings strong skills in graphic design and content editing, with hands-on experience using Adobe, Canva, Squarespace, Wordpress and a variety of specialized content management systems.
 
