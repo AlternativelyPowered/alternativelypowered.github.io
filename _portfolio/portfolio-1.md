@@ -4,4 +4,5 @@ excerpt: "A creative process-starter created as part of portfolio building, Fall
 collection: portfolio
 ---
 
+<img src='/images/moodboard.png'>
 This mood board was completed as a first design step to building a personal portfolio website in LIS 636-01.
