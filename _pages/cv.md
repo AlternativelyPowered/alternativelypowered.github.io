@@ -58,6 +58,6 @@ Skills
 * Community Outreach
 * Lifelong Learner
   
-Service and Leadership
+Service and Affiliations
 ======
-* Currently in process on M.L.I.S. Capstone opportunities to complete in final semester of graduate degree. Student teaching recordings are available under "Portfolio" for further review.
+* Currently in process on M.L.I.S. Capstone opportunities to complete in final semester of graduate degree. Recorded examples of student teaching are available under "Portfolio" for further review.
