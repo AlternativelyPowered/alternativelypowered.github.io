@@ -61,4 +61,4 @@ Skills
   
 Service and Leadership
 ======
-* Currently in process on M.L.I.S. Capstone opportunities to complete in final semester of graduate degree. Student teaching recordings are available on <ahref target="https://alternativelypowered.github.io//portfolio/">Portfolio.</a>
+* Currently in process on M.L.I.S. Capstone opportunities to complete in final semester of graduate degree. Student teaching recordings are available under "Portfolio" for further review.
