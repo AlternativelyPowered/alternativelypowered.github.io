@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<h1><img src="images/2.png"></h1>
+<h1><a href="https://alternativelypowered.github.io//cv/"><img src="images/3.png"></a></h1>
 
 Education
 ======
