@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<h1><img src="images/2.png"></h1>
+
 Education
 ======
 * M.L.I.S., University of North Carolina at Greensboro, 2026 (expected)
