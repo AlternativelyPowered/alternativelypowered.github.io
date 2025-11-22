@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Ben"
+title: "aboutbenheader.png"
 author_profile: true
 redirect_from: 
   - /about/
