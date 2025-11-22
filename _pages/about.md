@@ -11,6 +11,8 @@ redirect_from:
 
 <h3><i>Here, you discover Ben Griffith's past experience and imagine his future potential.</i></h3>
 
+</br>
+
 From overseeing grant-funded initiatives like Libraries Transforming Communities for Accessibility and The CharlieCart Project®, to coordinating engaging StoryWalk® installations and facilitating community workshops, Benjamin has demonstrated a consistent commitment to inclusive, impactful programs. His leadership spans the full project lifecycle, including recruiting talent, promoting events through print media and radio, and managing budgets via MUNIS software. He also brings strong skills in graphic design and content editing, with hands-on experience using Adobe, Canva, Squarespace, Wordpress and a variety of specialized content management systems.
 
   Benjamin’s versatility is equally evident in production work, where he has served as Stage Manager, Property Master, Set Painter, Rehearsal Pianist, Musical Director, and Director. His formal training in Theatre Arts, coupled with deep program management experience, equips him to contribute meaningfully to any creative or community-focused team.  Benjamin Griffith exemplifies collaborative leadership and lifelong learning, making him a valuable asset across arts, entertainment, education, and community engagement landscapes.
