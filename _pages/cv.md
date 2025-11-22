@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title image: "images/3.png"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-<h1><a href="https://alternativelypowered.github.io//cv/"><img src="images/3.png"></a></h1>
 
 Education
 ======
