@@ -1,8 +1,8 @@
 ---
 title: "Presentation on Retrospective Resources"
-excerpt: "A class presentation on Retrospective Resources completed for LIS 620 Information & Inquiry, Fall 2025.<br/><img src='/images/retrospectiveresources.mp4'>"
+excerpt: "A recorded class presentation on Multilingual Access and Inclusion completed for LIS 620 Information & Inquiry, Fall 2025.<br/>"
 collection: portfolio
 ---
 
-<img src='/images/retrospectiveresources.mp4'>
-This presentation was completed as part of a group project in LIS 620 Information & Inquiry during Fall 2025.
+<iframe width="500" height="300" src="https://www.youtube.com/embed/TjfDJEprI9I" title="GRIFFITH_BENJAMIN_LIS620_FALL25_EDI_POSTER" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+This poster and recorded presentation was completed as part of LIS 620 Information & Inquiry, Fall 2025.
