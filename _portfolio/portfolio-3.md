@@ -1,6 +1,6 @@
 ---
 title: "LIS 620 Presentation on Retrospective Resources"
-excerpt: "This presentation on specific biographical and retrospective sources was completed as part of LIS 620 Information & Inquiry"
+excerpt: "This presentation on biographical and retrospective sources was completed as part of LIS 620 Information & Inquiry"
 collection: portfolio
 ---
 
