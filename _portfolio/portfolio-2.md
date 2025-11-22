@@ -1,5 +1,5 @@
 ---
-title: "LIS 620 Poster and Presentation on Multilingual Website Access"
+title: "LIS 620 Presentation on Multilingual Website Access"
 excerpt: "A recorded class presentation on Multilingual Access and Inclusion completed for LIS 620 Information & Inquiry, Fall 2025.<br/>"
 collection: portfolio
 ---
