@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "cvheader.png"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+<img src="images/cvheader.png">
 
 Education
 ======
