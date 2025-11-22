@@ -13,7 +13,7 @@ From overseeing grant-funded initiatives like Libraries Transforming Communities
 
   Currently pursuing his Master of Library and Information Science at the University of North Carolina at Greensboro, Benjamin continues to evolve professionally while remaining rooted in service. His recent roles include Artistic & Managing Director for a municipal community theatre, Patron Services lead at a nonprofit performing arts venue, Outreach Technician with a public library, and most recently, Office Manager at KIPP GCP PRIDE High, a charter school.
 
-Portfolio
+<aref="https://alternativelypowered.github.io//portfolio/" target="Portfolio">
 ------
 Recent projects in Library & Information Science.
 
