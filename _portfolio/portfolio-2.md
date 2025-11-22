@@ -1,6 +1,6 @@
 ---
 title: "LIS 620 Presentation on Multilingual Website Access"
-excerpt: "A recorded class presentation on Multilingual Access and Inclusion completed for LIS 620 Information & Inquiry, Fall 2025.<br/>"
+excerpt: "A recorded class presentation on Multilingual Access and Inclusion completed for LIS 620 Information & Inquiry<br/>"
 collection: portfolio
 ---
 
